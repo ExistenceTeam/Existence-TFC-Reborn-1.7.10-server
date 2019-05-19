@@ -5,7 +5,7 @@
 Для того что бы создать отчёт об ошибке
 1. Нажмите вверху страницы на вкладку с надписью `Issues`
 
-![Issues tab](https://i.imgur.com/znCcpRY.png)
+  ![Issues tab](https://i.imgur.com/znCcpRY.png)
 
 2. Нажмите справа на зелёную кнопку `New issue`
 3. Нажмите справа на зелёную кнопку `Get started`
