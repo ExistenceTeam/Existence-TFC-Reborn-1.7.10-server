@@ -7,15 +7,25 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Опишите ошибку**
+Ясное и четкое описание того, в чем заключается проблема.
 
+**Воспроизведение**
+Если необходимо, опишите шаги для воспроизведения поведения ошибки:
+1. Откройте '...'
+2. Нажмите '....'
+3. Прокрутите вниз до '....'
+4. Наблюдайте ошибку
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Скриншоты**
+Если возможно, добавьте скриншоты, чтобы помочь понять вашу проблему.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Техническая информация (пожалуйста, заполните следующую информацию):**
+ - ОС/разрядность: [e.g. Windows 7 Ultimate x64]
+ - Java/разрядность [e.g. Java 8 Update 211 (64-bit)]
+ - Путь переменной среды `JAVA_HOME` в вашей системе
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Лог файлы**
+Если ваша проблема связана с крашем/вылетом, то:
+1. Прикрепите крашлоги/логи Minecraft из `%Appdata%\ExistMc\сервер\logs\fml-client-latest.log`, `%Appdata%\ExistMc\сервер\crash-reports\crash-ГГГГ-ММ-ДД_ЧЧ.ММ.СС-client.txt`
+2. Прикрепите логи лаунчера, сгенерированные с включеной настройкой "Режим отладки"
